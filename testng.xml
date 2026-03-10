@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="FlightBookingSuite">
+
+<listeners>
+<listener class-name="reports.TestListener"/>
+</listeners>
+
+<test name="FlightBookingTests">
+
+<classes>
+<class name="tests.FlightBookingTest"/>
+</classes>
+
+</test>
+
+</suite>
