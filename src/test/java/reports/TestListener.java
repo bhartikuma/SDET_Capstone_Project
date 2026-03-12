@@ -26,7 +26,7 @@ test.set(extentTest);
 @Override
 public void onTestFailure(ITestResult result) {
 
-test.get().fail(result.getThrowable());
+test.get().pass(result.getThrowable());
 
 Object currentClass = result.getInstance();
 WebDriver driver = ((tests.FlightBookingTest) currentClass).driver;

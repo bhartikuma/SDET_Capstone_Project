@@ -10,6 +10,12 @@ public class PurchasePage {
     public PurchasePage(WebDriver driver){
         this.driver = driver;
     }
+    public void cardDetails(String month ,  String year , String cardName) {
+    	driver.findElement(By.id("creditCardMonth")).sendKeys(month);
+    	driver.findElement(By.id("creditCardYear")).sendKeys(year);
+    	driver.findElement(By.id("nameOnCard")).sendKeys(cardName);
+    	
+    }
 
     public void enterDetails(String name,String city,String card){
 
@@ -20,6 +26,7 @@ public class PurchasePage {
         .selectByVisibleText("Visa");
 
         driver.findElement(By.id("creditCardNumber")).sendKeys(card);
+        
 
         driver.findElement(By.cssSelector("input[type='submit']")).click();
     }

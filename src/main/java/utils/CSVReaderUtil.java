@@ -16,7 +16,7 @@ public class CSVReaderUtil {
 
         String[] line;
 
-        reader.readNext(); // skip header
+        reader.readNext(); 
 
         while((line = reader.readNext()) != null) {
 
