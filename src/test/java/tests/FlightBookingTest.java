@@ -96,6 +96,7 @@ public void bookFlightTest(String name, String city, String card) {
     String actualMsg = successHeader.getText();
     Assert.assertTrue(actualMsg.contains("Thank you"), 
             "Expected success message not found! Actual: " + actualMsg);
+    System.out.println("some changes");
 }
 
 
