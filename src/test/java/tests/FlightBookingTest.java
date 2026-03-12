@@ -82,6 +82,9 @@ public void bookFlightTest(String name, String city, String card) {
     
     purchase.cardDetails("11", "2017", "bharti");
     purchase.enterDetails(name, city, card);
+    
+    ConfirmationPage com = new  ConfirmationPage(driver);
+    System.out.println(com.getConfirmation());
 
    
     WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
