@@ -4,8 +4,11 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import java.time.Duration;
 
 public class ConfirmationPage {
 
@@ -18,13 +21,17 @@ public class ConfirmationPage {
     public ConfirmationPage(WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this);
+
+        // Wait add kiya — page load hone tak ruko
+        new WebDriverWait(driver, Duration.ofSeconds(15))
+            .until(ExpectedConditions.visibilityOf(confirmationHeader));
+
         log.info("ConfirmationPage initialized");
     }
 
-    // Tera original method — SAME naam
     public String getConfirmation() {
         String text = confirmationHeader.getText();
-        log.info("Confirmation message: " + text);
+        log.info("Confirmation: " + text);
         return text;
     }
 
