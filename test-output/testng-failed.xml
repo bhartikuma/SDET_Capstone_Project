@@ -4,15 +4,17 @@
   <listeners>
     <listener class-name="reports.TestListener"/>
   </listeners>
-  <test thread-count="5" name="FlightBookingTests(failed)">
+  <test thread-count="5" name="Edge Tests(failed)">
+    <parameter name="browser" value="edge"/>
     <classes>
-      <class name="tests.FlightBookingTest">
+      <class name="runners.CucumberRunner">
         <methods>
-          <include name="setup"/>
-          <include name="tearDown"/>
-          <include name="bookFlightTest" invocation-numbers="0 1 2 3 4"/>
+          <include name="setUpClass"/>
+          <include name="setBrowser"/>
+          <include name="runScenario" invocation-numbers="0 1 2 3"/>
+          <include name="tearDownClass"/>
         </methods>
-      </class> <!-- tests.FlightBookingTest -->
+      </class> <!-- runners.CucumberRunner -->
     </classes>
-  </test> <!-- FlightBookingTests(failed) -->
+  </test> <!-- Edge Tests(failed) -->
 </suite> <!-- Failed suite [FlightBookingSuite] -->

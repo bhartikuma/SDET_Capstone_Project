@@ -1,33 +1,99 @@
 package pages;
 
-import org.openqa.selenium.*;
-import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import java.time.Duration;
 
 public class PurchasePage {
 
-    WebDriver driver;
+    private static final Logger log = LogManager.getLogger(PurchasePage.class);
+    private WebDriver driver;
 
-    public PurchasePage(WebDriver driver){
+    @FindBy(id = "inputName")
+    private WebElement nameField;
+
+    @FindBy(id = "address")
+    private WebElement addressField;
+
+    @FindBy(id = "city")
+    private WebElement cityField;
+
+    @FindBy(id = "state")
+    private WebElement stateField;
+
+    @FindBy(id = "zipCode")
+    private WebElement zipField;
+
+    @FindBy(id = "creditCardNumber")
+    private WebElement cardNumberField;
+
+    @FindBy(id = "creditCardMonth")
+    private WebElement cardMonthField;
+
+    @FindBy(id = "creditCardYear")
+    private WebElement cardYearField;
+
+    @FindBy(id = "nameOnCard")
+    private WebElement nameOnCardField;
+
+    @FindBy(css = "input[value='Purchase Flight']")
+    private WebElement purchaseButton;
+
+    @FindBy(css = "div.container h2")
+    private WebElement totalCostLabel;
+
+    public PurchasePage(WebDriver driver) {
         this.driver = driver;
+        PageFactory.initElements(driver, this);
+        // Wait karo jab tak page load ho
+        new WebDriverWait(driver, Duration.ofSeconds(10))
+            .until(ExpectedConditions.visibilityOf(nameField));
+        log.info("PurchasePage initialized");
     }
-    public void cardDetails(String month ,  String year , String cardName) {
-    	driver.findElement(By.id("creditCardMonth")).sendKeys(month);
-    	driver.findElement(By.id("creditCardYear")).sendKeys(year);
-    	driver.findElement(By.id("nameOnCard")).sendKeys(cardName);
-    	
+
+    // ── Tera original method — bilkul same ──
+    public void enterDetails(String name, String city, String card) {
+        nameField.clear();
+        nameField.sendKeys(name);
+        cityField.clear();
+        cityField.sendKeys(city);
+        cardNumberField.clear();
+        cardNumberField.sendKeys(card);
+        log.info("enterDetails() called for: " + name);
     }
 
-    public void enterDetails(String name,String city,String card){
+    // ── Tera original method — bilkul same ──
+    public void cardDetails(String month, String year, String nameOnCard) {
+        cardMonthField.clear();
+        cardMonthField.sendKeys(month);
+        cardYearField.clear();
+        cardYearField.sendKeys(year);
+        nameOnCardField.clear();
+        nameOnCardField.sendKeys(nameOnCard);
+        log.info("cardDetails() called");
+    }
 
-        driver.findElement(By.id("inputName")).sendKeys(name);
-        driver.findElement(By.id("city")).sendKeys(city);
+    // ── Naye methods jo Steps ko chahiye ──
+    public void clickPurchase() {
+        purchaseButton.click();
+        log.info("Purchase Flight button clicked");
+    }
 
-        new Select(driver.findElement(By.id("cardType")))
-        .selectByVisibleText("Visa");
+    public boolean isDisplayed() {
+        return purchaseButton.isDisplayed();
+    }
 
-        driver.findElement(By.id("creditCardNumber")).sendKeys(card);
-        
-
-        driver.findElement(By.cssSelector("input[type='submit']")).click();
+    public String getTotalCost() {
+        try {
+            return totalCostLabel.getText();
+        } catch (Exception e) {
+            return "Cost label not found";
+        }
     }
 }

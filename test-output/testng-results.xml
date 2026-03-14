@@ -1,158 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-12T16:44:42 IST" name="FlightBookingSuite" finished-at="2026-03-12T16:45:31 IST" duration-ms="48365">
+  <suite started-at="2026-03-14T10:48:33 IST" name="FlightBookingSuite" finished-at="2026-03-14T10:50:50 IST" duration-ms="136778">
     <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.CucumberRunner@142eef62]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.CucumberRunner@4a9e6faf]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
     </groups>
-    <test started-at="2026-03-12T16:44:42 IST" name="FlightBookingTests" finished-at="2026-03-12T16:45:31 IST" duration-ms="48365">
-      <class name="tests.FlightBookingTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:44:46 IST" name="setup" finished-at="2026-03-12T16:44:54 IST" duration-ms="8007" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="bookFlightTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:44:54 IST" name="bookFlightTest" data-provider="testData" finished-at="2026-03-12T16:44:58 IST" duration-ms="4084" status="PASS">
+    <test started-at="2026-03-14T10:48:33 IST" name="Chrome Tests" finished-at="2026-03-14T10:49:51 IST" duration-ms="78414">
+      <class name="runners.CucumberRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runners.CucumberRunner@142eef62]" started-at="2026-03-14T10:48:33 IST" name="setUpClass" finished-at="2026-03-14T10:48:34 IST" duration-ms="1125" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[Bharti]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Delhi]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[4111111111111111]]>
+                <![CDATA[org.testng.TestRunner@77227b1f]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- bookFlightTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:44:58 IST" name="tearDown" finished-at="2026-03-12T16:44:59 IST" duration-ms="440" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:44:59 IST" name="setup" finished-at="2026-03-12T16:45:03 IST" duration-ms="4254" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="bookFlightTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:45:03 IST" name="bookFlightTest" data-provider="testData" finished-at="2026-03-12T16:45:07 IST" duration-ms="3777" status="PASS">
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setBrowser(java.lang.String)[pri:0, instance:runners.CucumberRunner@142eef62]" started-at="2026-03-14T10:48:34 IST" name="setBrowser" finished-at="2026-03-14T10:48:34 IST" duration-ms="6" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[Harshvardhan]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[bangalore ]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[5555555555554465]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- bookFlightTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:45:07 IST" name="tearDown" finished-at="2026-03-12T16:45:07 IST" duration-ms="261" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:45:07 IST" name="setup" finished-at="2026-03-12T16:45:11 IST" duration-ms="3987" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="bookFlightTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:45:11 IST" name="bookFlightTest" data-provider="testData" finished-at="2026-03-12T16:45:15 IST" duration-ms="3778" status="PASS">
+        </test-method> <!-- setBrowser -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.CucumberRunner@142eef62]" started-at="2026-03-14T10:48:34 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-03-14T10:48:55 IST" duration-ms="21333" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[Sonali ]]>
+                <![CDATA["Book flight with inline test data"]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[Delhi]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[4111111111111111]]>
+                <![CDATA["End-to-end flight booking on BlazeDemo"]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- bookFlightTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:45:15 IST" name="tearDown" finished-at="2026-03-12T16:45:15 IST" duration-ms="305" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:45:15 IST" name="setup" finished-at="2026-03-12T16:45:19 IST" duration-ms="3898" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="bookFlightTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:45:19 IST" name="bookFlightTest" data-provider="testData" finished-at="2026-03-12T16:45:23 IST" duration-ms="3920" status="PASS">
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.CucumberRunner@142eef62]" started-at="2026-03-14T10:48:55 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-03-14T10:49:06 IST" duration-ms="10825" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[Sudha ]]>
+                <![CDATA["Book flight using Excel test data"]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[Mumbai]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[5555555555554444]]>
+                <![CDATA["End-to-end flight booking on BlazeDemo"]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- bookFlightTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:45:23 IST" name="tearDown" finished-at="2026-03-12T16:45:23 IST" duration-ms="423" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:45:23 IST" name="setup" finished-at="2026-03-12T16:45:27 IST" duration-ms="3762" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="bookFlightTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:45:27 IST" name="bookFlightTest" data-provider="testData" finished-at="2026-03-12T16:45:30 IST" duration-ms="3445" status="PASS">
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.CucumberRunner@142eef62]" started-at="2026-03-14T10:49:06 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-03-14T10:49:23 IST" duration-ms="16511" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[Bharti]]>
+                <![CDATA["Book flight using CSV test data"]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[Delhi]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[4111111111111111]]>
+                <![CDATA["End-to-end flight booking on BlazeDemo"]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- bookFlightTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-03-12T16:45:30 IST" name="tearDown" finished-at="2026-03-12T16:45:31 IST" duration-ms="364" status="PASS">
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.CucumberRunner@142eef62]" started-at="2026-03-14T10:49:23 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-03-14T10:49:51 IST" duration-ms="28401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Book flight using Database test data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["End-to-end flight booking on BlazeDemo"]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- tests.FlightBookingTest -->
-    </test> <!-- FlightBookingTests -->
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runners.CucumberRunner@142eef62]" started-at="2026-03-14T10:49:51 IST" name="tearDownClass" finished-at="2026-03-14T10:49:51 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runners.CucumberRunner -->
+    </test> <!-- Chrome Tests -->
+    <test started-at="2026-03-14T10:49:51 IST" name="Edge Tests" finished-at="2026-03-14T10:50:50 IST" duration-ms="58327">
+      <class name="runners.CucumberRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runners.CucumberRunner@4a9e6faf]" started-at="2026-03-14T10:49:51 IST" name="setUpClass" finished-at="2026-03-14T10:49:51 IST" duration-ms="33" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@73136174]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setBrowser(java.lang.String)[pri:0, instance:runners.CucumberRunner@4a9e6faf]" started-at="2026-03-14T10:49:51 IST" name="setBrowser" finished-at="2026-03-14T10:49:51 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.CucumberRunner@4a9e6faf]" started-at="2026-03-14T10:49:51 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-03-14T10:50:09 IST" duration-ms="17610" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Book flight with inline test data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["End-to-end flight booking on BlazeDemo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.CucumberRunner@4a9e6faf]" started-at="2026-03-14T10:50:09 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-03-14T10:50:20 IST" duration-ms="11330" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Book flight using Excel test data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["End-to-end flight booking on BlazeDemo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.CucumberRunner@4a9e6faf]" started-at="2026-03-14T10:50:20 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-03-14T10:50:34 IST" duration-ms="13565" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Book flight using CSV test data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["End-to-end flight booking on BlazeDemo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.CucumberRunner@4a9e6faf]" started-at="2026-03-14T10:50:34 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-03-14T10:50:50 IST" duration-ms="15738" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Book flight using Database test data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["End-to-end flight booking on BlazeDemo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runners.CucumberRunner@4a9e6faf]" started-at="2026-03-14T10:50:50 IST" name="tearDownClass" finished-at="2026-03-14T10:50:50 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runners.CucumberRunner -->
+    </test> <!-- Edge Tests -->
   </suite> <!-- FlightBookingSuite -->
 </testng-results>

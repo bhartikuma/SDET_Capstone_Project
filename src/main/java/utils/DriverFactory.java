@@ -1,20 +1,59 @@
 package utils;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class DriverFactory {
 
-    public static WebDriver driver;
+    private static final Logger log = LogManager.getLogger(DriverFactory.class);
+    private static ThreadLocal<WebDriver> driver      = new ThreadLocal<>();
+    private static ThreadLocal<String>    browserName = new ThreadLocal<>();
 
     public static WebDriver getDriver() {
+        return driver.get();
+    }
 
-        if(driver == null) {
+    public static String getBrowserName() {
+        return browserName.get();
+    }
 
-            driver = new ChromeDriver();
-            driver.manage().window().maximize();
+    public static void initDriver(String browser) {
+        browserName.set(browser);
+        WebDriver d;
+
+        switch (browser.toLowerCase().trim()) {
+
+            case "edge":
+                // WebDriverManager NAHI — Edge already Windows mein hota hai
+                // msedgedriver automatically PATH mein hota hai Windows pe
+                EdgeOptions edgeOptions = new EdgeOptions();
+                d = new EdgeDriver(edgeOptions);
+                log.info("Edge browser launched");
+                break;
+
+            case "chrome":
+            default:
+                WebDriverManager.chromedriver().setup();
+                d = new ChromeDriver();
+                log.info("Chrome browser launched");
+                break;
         }
 
-        return driver;
+        d.manage().window().maximize();
+        driver.set(d);
+    }
+
+    public static void quitDriver() {
+        if (driver.get() != null) {
+            driver.get().quit();
+            driver.remove();
+            browserName.remove();
+            log.info("Browser closed");
+        }
     }
 }
