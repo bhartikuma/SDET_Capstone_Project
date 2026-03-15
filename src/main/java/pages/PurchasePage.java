@@ -9,6 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import java.time.Duration;
+import utils.ScreenshotUtil;
 
 public class PurchasePage {
 
@@ -51,13 +52,13 @@ public class PurchasePage {
     public PurchasePage(WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this);
-        // Wait karo jab tak page load ho
+        
         new WebDriverWait(driver, Duration.ofSeconds(10))
             .until(ExpectedConditions.visibilityOf(nameField));
         log.info("PurchasePage initialized");
     }
 
-    // ── Tera original method — bilkul same ──
+  
     public void enterDetails(String name, String city, String card) {
         nameField.clear();
         nameField.sendKeys(name);
@@ -68,7 +69,6 @@ public class PurchasePage {
         log.info("enterDetails() called for: " + name);
     }
 
-    // ── Tera original method — bilkul same ──
     public void cardDetails(String month, String year, String nameOnCard) {
         cardMonthField.clear();
         cardMonthField.sendKeys(month);
@@ -79,7 +79,7 @@ public class PurchasePage {
         log.info("cardDetails() called");
     }
 
-    // ── Naye methods jo Steps ko chahiye ──
+    
     public void clickPurchase() {
         purchaseButton.click();
         log.info("Purchase Flight button clicked");
@@ -95,5 +95,13 @@ public class PurchasePage {
         } catch (Exception e) {
             return "Cost label not found";
         }
+    }
+    public void clickPurchases() {
+        purchaseButton.click();
+        log.info("Purchase Flight clicked");
+
+        
+        ScreenshotUtil.captureScreenshot(driver, "PurchasePage_AfterClick");
+        log.info("Screenshot captured after purchase click");
     }
 }

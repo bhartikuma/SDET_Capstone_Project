@@ -7,7 +7,6 @@ public class ExtentManager {
 
     static ExtentReports extent;
 
-    // Tera existing method — bilkul same rakha
     public static ExtentReports getReport() {
         if (extent == null) {
             ExtentSparkReporter reporter =
@@ -18,7 +17,6 @@ public class ExtentManager {
         return extent;
     }
 
-    // Naya alias — Hooks.java getInstance() call karta hai
     public static ExtentReports getInstance() {
         return getReport();
     }

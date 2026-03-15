@@ -1,109 +1,73 @@
 package tests;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.testng.Assert;
 import java.time.Duration;
-
 import org.testng.annotations.*;
-
-
-
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
 import pages.*;
 import utils.DataProviderUtil;
+import utils.ScreenshotUtil;
 
 @Listeners(reports.TestListener.class)
+public class FlightBookingTest {
 
+    public WebDriver driver;
 
-public class FlightBookingTest  {
+    @BeforeMethod
+    public void setup() {
+        WebDriverManager.chromedriver().setup();
+        driver = new ChromeDriver();
+        driver.manage().window().maximize();
+        driver.get("https://blazedemo.com");
+    }
 
-public WebDriver driver;
+    @DataProvider
+    public Object[][] testData() throws Exception {
+        return DataProviderUtil.getAllData();
+    }
 
-@BeforeMethod
-public void setup(){
+    @Test(dataProvider = "testData")
+    public void bookFlightTest(String name, String city, String card) {
+        System.out.println("Running test with: " + name);
 
-driver = new ChromeDriver();
+        // HomePage
+        HomePage home = new HomePage(driver);
+        home.selectCities("Boston", "London");
+        home.clickFindFlights();
 
-driver.manage().window().maximize();
+        // FlightsPage
+        FlightsPage flights = new FlightsPage(driver);
+        flights.chooseFirstFlight();
 
-driver.get("https://blazedemo.com");
-}
+        // PurchasePage
+        PurchasePage purchase = new PurchasePage(driver);
+        purchase.cardDetails("11", "2027", name);
+        purchase.enterDetails(name, city, card);
 
-@DataProvider
-public Object[][] testData() throws Exception{
+        // clickPurchase() 
+        purchase.clickPurchase();
 
-return DataProviderUtil.getAllData();
-}
+        // ConfirmationPage
+        ConfirmationPage confirm = new ConfirmationPage(driver);
+        String msg = confirm.getConfirmation();
 
+        // Screenshot
+        ScreenshotUtil.captureScreenshot(driver,
+            "TestNG_" + name.replaceAll(" ", "_"));
 
+        // Assert
+        Assert.assertTrue(
+            msg.contains("Thank you"),
+            "Confirmation not found! Actual: " + msg
+        );
+    }
 
-//@Test(dataProvider="testData")
-//public void bookFlightTest(String name,String city,String card){
-//
-//System.out.println("Running test with "+name);
-//
-//HomePage home = new HomePage(driver);
-//
-//home.selectCities("Boston","London");
-//
-//home.clickFindFlights();
-//
-//FlightsPage flights = new FlightsPage(driver);
-//
-//flights.chooseFirstFlight();
-//
-//PurchasePage purchase = new PurchasePage(driver);
-//
-//
-//purchase.enterDetails(name,city,card);
-//purchase.cardDetails("11", "2017", "bharti");
-//System.out.println("Jenkins added   2");
-//
-//}
-@Test(dataProvider="testData")
-public void bookFlightTest(String name, String city, String card) {
-    System.out.println("Running test with " + name);
-
-    HomePage home = new HomePage(driver);
-    home.selectCities("Boston", "London");
-    home.clickFindFlights();
-
-   
-    FlightsPage flights = new FlightsPage(driver);
-    flights.chooseFirstFlight();
-
-  
-    PurchasePage purchase = new PurchasePage(driver);
-    
-    purchase.cardDetails("11", "2017", "bharti");
-    purchase.enterDetails(name, city, card);
-    
-    ConfirmationPage com = new  ConfirmationPage(driver);
-    System.out.println(com.getConfirmation());
-
-   
-    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-    
-    
-    WebElement successHeader = wait.until(ExpectedConditions.visibilityOfElementLocated(
-            By.cssSelector("div.container h1"))); 
-    
-    String actualMsg = successHeader.getText();
-    Assert.assertTrue(actualMsg.contains("Thank you"), 
-            "Expected success message not found! Actual: " + actualMsg);
-    System.out.println("some changes");
-}
-
-
-@AfterMethod
-public void tearDown(){
-
-driver.quit();
-}
-
+    @AfterMethod
+    public void tearDown() {
+        if (driver != null) {
+            driver.quit();
+        }
+    }
 }

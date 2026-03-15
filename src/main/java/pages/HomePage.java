@@ -28,7 +28,6 @@ public class HomePage {
         log.info("HomePage initialized");
     }
 
-    // Tera original method — SAME naam, SAME signature — kuch nahi badla
     public void selectCities(String from, String to) {
         new Select(departureDropdown).selectByVisibleText(from);
         log.info("Departure selected: " + from);

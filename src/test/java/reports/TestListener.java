@@ -15,7 +15,7 @@ public class TestListener implements ITestListener {
 
     @Override
     public void onTestStart(ITestResult result) {
-        // CucumberRunner ya koi bhi class ho — safely handle karta hai
+        
         ExtentTest extentTest = extent.createTest(result.getName());
         test.set(extentTest);
     }
@@ -27,8 +27,7 @@ public class TestListener implements ITestListener {
 
     @Override
     public void onTestFailure(ITestResult result) {
-        // Pehle wala code crash karta tha kyunki FlightBookingTest cast karta tha
-        // Ab safely sirf result se kaam karta hai — koi cast nahi
+        
         test.get().log(Status.FAIL, "Test FAILED: " + result.getName());
         test.get().log(Status.FAIL, result.getThrowable());
     }
@@ -43,7 +42,7 @@ public class TestListener implements ITestListener {
         extent.flush();
     }
 
-    // Baaki methods empty rehne do — override karna zaroori nahi
+    
     @Override
     public void onTestFailedButWithinSuccessPercentage(ITestResult result) {}
 

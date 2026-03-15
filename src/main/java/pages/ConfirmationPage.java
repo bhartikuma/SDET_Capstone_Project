@@ -22,7 +22,6 @@ public class ConfirmationPage {
         this.driver = driver;
         PageFactory.initElements(driver, this);
 
-        // Wait add kiya — page load hone tak ruko
         new WebDriverWait(driver, Duration.ofSeconds(15))
             .until(ExpectedConditions.visibilityOf(confirmationHeader));
 

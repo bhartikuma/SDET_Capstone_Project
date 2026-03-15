@@ -1,6 +1,7 @@
 package hooks;
 
 import com.aventstack.extentreports.ExtentTest;
+
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
@@ -20,7 +21,7 @@ public class Hooks {
 
     @Before(order = 1)
     public void initDriver(Scenario scenario) {
-        // Thread ID se browser lo — har test ka apna alag value
+
         String threadId = String.valueOf(Thread.currentThread().getId());
         String browser  = System.getProperty("browser." + threadId, "chrome");
 
@@ -49,7 +50,7 @@ public class Hooks {
         if (scenario.isFailed()) {
             log.error("FAILED: " + scenario.getName());
 
-            // NULL CHECK — driver launch nahi hua toh screenshot skip karo
+            
             if (DriverFactory.getDriver() != null) {
                 try {
                     String path = ScreenshotUtil.captureScreenshot(
@@ -61,12 +62,12 @@ public class Hooks {
                     scenario.attach(screenshot, "image/png", "Screenshot on Failure");
                     extentTest.fail("FAILED — screenshot: " + path);
                 } catch (Exception e) {
-                    log.error("Screenshot nahi le saka: " + e.getMessage());
+                    log.error("Screenshot can't be taken: " + e.getMessage());
                     extentTest.fail("FAILED — screenshot error: " + e.getMessage());
                 }
             } else {
-                log.error("Driver null hai — browser launch nahi hua");
-                extentTest.fail("FAILED — browser launch nahi hua: "
+                log.error("Driver is null — browser does not launch ");
+                extentTest.fail("FAILED — browser launch failed: "
                         + scenario.getName());
             }
 

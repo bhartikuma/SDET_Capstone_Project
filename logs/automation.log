@@ -1,0 +1,1530 @@
+2026-03-15 19:31:23 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:31:24 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:31:24 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:31:25 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:31:25 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:31:25 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:31:25 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:31:26 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:31:27 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 19:31:28 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:31:28 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:31:28 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:31:31 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:31:31 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:31:32 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:31:32 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:31:32 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:31:33 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:31:33 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:31:34 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:31:34 [main] INFO  pages.PurchasePage - enterDetails() called for: Harshvardhan
+2026-03-15 19:31:35 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:31:35 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:31:35 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:31:39 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:31:39 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:31:39 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:31:40 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:31:40 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:31:41 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:31:41 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:31:42 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:31:42 [main] INFO  pages.PurchasePage - enterDetails() called for: Sonali 
+2026-03-15 19:31:43 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:31:43 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:31:43 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:31:46 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:31:47 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:31:47 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:31:47 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:31:47 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:31:48 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:31:48 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:31:49 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:31:49 [main] INFO  pages.PurchasePage - enterDetails() called for: Sudha 
+2026-03-15 19:31:50 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:31:50 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:31:50 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:31:54 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:31:54 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:31:54 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:31:55 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:31:55 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:31:56 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:31:56 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:31:56 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:31:57 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 19:31:58 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:31:58 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:31:58 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:32:02 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 19:32:02 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight with inline test data
+2026-03-15 19:32:02 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:32:06 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:32:06 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:32:08 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:32:08 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:32:08 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:32:09 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:32:09 [main] INFO  steps.FlightBookingSteps - Cities selected: Boston -> London
+2026-03-15 19:32:09 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:32:09 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:32:09 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:32:09 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:32:10 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:32:10 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:32:10 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:32:10 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:32:11 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:32:11 [main] INFO  pages.PurchasePage - enterDetails() called for: Rahul Sharma
+2026-03-15 19:32:11 [main] INFO  steps.FlightBookingSteps - [FEATURE FILE] Details filled for: Rahul Sharma
+2026-03-15 19:32:12 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:32:12 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:32:12 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:32:12 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:32:12 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:32:12 [main] INFO  steps.FlightBookingSteps - Success screenshot captured for: Rahul Sharma
+2026-03-15 19:32:12 [main] INFO  hooks.Hooks - PASSED: Book flight with inline test data
+2026-03-15 19:32:13 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:32:13 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight with inline test data ===
+
+2026-03-15 19:32:14 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 19:32:14 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight using Excel test data
+2026-03-15 19:32:14 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:32:14 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:32:14 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:32:16 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:32:16 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:32:16 [main] INFO  steps.FlightBookingSteps - [EXCEL] Loaded — Name: Bharti | City: Delhi
+2026-03-15 19:32:16 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:32:17 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:32:17 [main] INFO  steps.FlightBookingSteps - Cities selected: Boston -> London
+2026-03-15 19:32:18 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:32:18 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:32:18 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:32:18 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:32:19 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:32:19 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:32:19 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:32:19 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:32:19 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:32:20 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 19:32:20 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Bharti
+2026-03-15 19:32:21 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:32:21 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:32:21 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:32:21 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:32:21 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:32:21 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 19:32:21 [main] INFO  hooks.Hooks - PASSED: Book flight using Excel test data
+2026-03-15 19:32:21 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:32:21 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Excel test data ===
+
+2026-03-15 19:32:22 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 19:32:23 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight using CSV test data
+2026-03-15 19:32:23 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:32:23 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:32:23 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:32:26 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:32:26 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:32:26 [main] INFO  steps.FlightBookingSteps - [CSV] Loaded — Name: Sonali  | City: Delhi
+2026-03-15 19:32:26 [main] INFO  pages.HomePage - Departure selected: Paris
+2026-03-15 19:32:26 [main] INFO  pages.HomePage - Destination selected: Buenos Aires
+2026-03-15 19:32:26 [main] INFO  steps.FlightBookingSteps - Cities selected: Paris -> Buenos Aires
+2026-03-15 19:32:27 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:32:27 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:32:27 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:32:27 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:32:28 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:32:28 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:32:28 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:32:28 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:32:28 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:32:29 [main] INFO  pages.PurchasePage - enterDetails() called for: Sonali 
+2026-03-15 19:32:29 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Sonali 
+2026-03-15 19:32:30 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:32:30 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:32:30 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:32:30 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:32:30 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:32:30 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 19:32:30 [main] INFO  hooks.Hooks - PASSED: Book flight using CSV test data
+2026-03-15 19:32:30 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:32:30 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using CSV test data ===
+
+2026-03-15 19:32:32 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 19:32:32 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight using Database test data
+2026-03-15 19:32:32 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:32:32 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:32:32 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:32:34 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:32:34 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:32:34 [main] INFO  steps.FlightBookingSteps - [DB] Loaded — Name: Bharti | City: Delhi
+2026-03-15 19:32:34 [main] INFO  pages.HomePage - Departure selected: Paris
+2026-03-15 19:32:34 [main] INFO  pages.HomePage - Destination selected: Buenos Aires
+2026-03-15 19:32:34 [main] INFO  steps.FlightBookingSteps - Cities selected: Paris -> Buenos Aires
+2026-03-15 19:32:35 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:32:35 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:32:35 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:32:35 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:32:36 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:32:36 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:32:36 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:32:36 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:32:37 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:32:37 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 19:32:37 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Bharti
+2026-03-15 19:32:38 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:32:38 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:32:38 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:32:38 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:32:38 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:32:38 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 19:32:38 [main] INFO  hooks.Hooks - PASSED: Book flight using Database test data
+2026-03-15 19:32:38 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:32:38 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Database test data ===
+
+2026-03-15 19:32:43 [main] ERROR hooks.Hooks - FAILED: Book flight with inline test data
+2026-03-15 19:32:43 [main] ERROR hooks.Hooks - Driver null hai — browser launch nahi hua
+2026-03-15 19:32:43 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight with inline test data ===
+
+2026-03-15 19:32:45 [main] ERROR hooks.Hooks - FAILED: Book flight using Excel test data
+2026-03-15 19:32:45 [main] ERROR hooks.Hooks - Driver null hai — browser launch nahi hua
+2026-03-15 19:32:45 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Excel test data ===
+
+2026-03-15 19:32:48 [main] ERROR hooks.Hooks - FAILED: Book flight using CSV test data
+2026-03-15 19:32:48 [main] ERROR hooks.Hooks - Driver null hai — browser launch nahi hua
+2026-03-15 19:32:48 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using CSV test data ===
+
+2026-03-15 19:32:51 [main] ERROR hooks.Hooks - FAILED: Book flight using Database test data
+2026-03-15 19:32:51 [main] ERROR hooks.Hooks - Driver null hai — browser launch nahi hua
+2026-03-15 19:32:51 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Database test data ===
+
+2026-03-15 19:38:32 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:38:32 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:38:32 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:38:33 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:38:33 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:38:34 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:38:34 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:38:34 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:38:35 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 19:38:36 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:38:36 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:38:36 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:38:41 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:38:41 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:38:41 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:38:42 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:38:42 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:38:43 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:38:43 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:38:43 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:38:44 [main] INFO  pages.PurchasePage - enterDetails() called for: Harshvardhan
+2026-03-15 19:38:45 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:38:45 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:38:45 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:38:49 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:38:49 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:38:49 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:38:50 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:38:50 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:38:51 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:38:51 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:38:51 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:38:52 [main] INFO  pages.PurchasePage - enterDetails() called for: Sonali 
+2026-03-15 19:38:53 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:38:53 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:38:53 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:38:55 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:38:56 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:38:57 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:38:57 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:38:57 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:38:58 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:38:59 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:38:59 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:38:59 [main] INFO  pages.PurchasePage - enterDetails() called for: Sudha 
+2026-03-15 19:39:00 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:39:00 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:39:00 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:39:04 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:39:04 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:39:04 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:39:05 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:39:05 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:39:06 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:39:06 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:39:07 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:39:07 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 19:39:08 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:39:08 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:39:08 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:39:12 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 19:39:12 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight with inline test data
+2026-03-15 19:39:12 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:39:16 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:39:16 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:39:18 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:39:18 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:39:18 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:39:18 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:39:18 [main] INFO  steps.FlightBookingSteps - Cities selected: Boston -> London
+2026-03-15 19:39:19 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:39:19 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:39:19 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:39:19 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:39:20 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:39:20 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:39:20 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:39:20 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:39:21 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:39:22 [main] INFO  pages.PurchasePage - enterDetails() called for: Rahul Sharma
+2026-03-15 19:39:22 [main] INFO  steps.FlightBookingSteps - [FEATURE FILE] Details filled for: Rahul Sharma
+2026-03-15 19:39:22 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:39:22 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:39:22 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:39:22 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:39:22 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:39:23 [main] INFO  steps.FlightBookingSteps - Success screenshot captured for: Rahul Sharma
+2026-03-15 19:39:23 [main] INFO  hooks.Hooks - PASSED: Book flight with inline test data
+2026-03-15 19:39:23 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:39:23 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight with inline test data ===
+
+2026-03-15 19:39:24 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 19:39:24 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight using Excel test data
+2026-03-15 19:39:24 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:39:25 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:39:25 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:39:28 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:39:28 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:39:28 [main] INFO  steps.FlightBookingSteps - [EXCEL] Loaded — Name: Bharti | City: Delhi
+2026-03-15 19:39:28 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:39:28 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:39:28 [main] INFO  steps.FlightBookingSteps - Cities selected: Boston -> London
+2026-03-15 19:39:29 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:39:29 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:39:29 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:39:29 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:39:30 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:39:30 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:39:30 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:39:30 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:39:31 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:39:31 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 19:39:31 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Bharti
+2026-03-15 19:39:32 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:39:32 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:39:32 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:39:32 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:39:32 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:39:33 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 19:39:33 [main] INFO  hooks.Hooks - PASSED: Book flight using Excel test data
+2026-03-15 19:39:33 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:39:33 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Excel test data ===
+
+2026-03-15 19:39:34 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 19:39:34 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight using CSV test data
+2026-03-15 19:39:34 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:39:35 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:39:35 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:39:37 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:39:37 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:39:37 [main] INFO  steps.FlightBookingSteps - [CSV] Loaded — Name: Sonali  | City: Delhi
+2026-03-15 19:39:37 [main] INFO  pages.HomePage - Departure selected: Paris
+2026-03-15 19:39:37 [main] INFO  pages.HomePage - Destination selected: Buenos Aires
+2026-03-15 19:39:37 [main] INFO  steps.FlightBookingSteps - Cities selected: Paris -> Buenos Aires
+2026-03-15 19:39:38 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:39:38 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:39:38 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:39:38 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:39:39 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:39:39 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:39:39 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:39:39 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:39:40 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:39:40 [main] INFO  pages.PurchasePage - enterDetails() called for: Sonali 
+2026-03-15 19:39:40 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Sonali 
+2026-03-15 19:39:41 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:39:41 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:39:41 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:39:41 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:39:41 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:39:41 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 19:39:41 [main] INFO  hooks.Hooks - PASSED: Book flight using CSV test data
+2026-03-15 19:39:42 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:39:42 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using CSV test data ===
+
+2026-03-15 19:39:43 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 19:39:43 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight using Database test data
+2026-03-15 19:39:43 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:39:43 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:39:43 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:39:45 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:39:45 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:39:45 [main] INFO  steps.FlightBookingSteps - [DB] Loaded — Name: Bharti | City: Delhi
+2026-03-15 19:39:46 [main] INFO  pages.HomePage - Departure selected: Paris
+2026-03-15 19:39:46 [main] INFO  pages.HomePage - Destination selected: Buenos Aires
+2026-03-15 19:39:46 [main] INFO  steps.FlightBookingSteps - Cities selected: Paris -> Buenos Aires
+2026-03-15 19:39:47 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:39:47 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:39:47 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:39:47 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:39:47 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:39:47 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:39:47 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:39:48 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:39:48 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:39:49 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 19:39:49 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Bharti
+2026-03-15 19:39:50 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:39:50 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:39:50 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:39:50 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:39:50 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:39:50 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 19:39:50 [main] INFO  hooks.Hooks - PASSED: Book flight using Database test data
+2026-03-15 19:39:50 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:39:50 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Database test data ===
+
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_146_WINDOWS to get latest version of msedgedriver (No such host is known (msedgedriver.azureedge.net))
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2026-03-15 19:39:51 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1565) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1435) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1267) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1183) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1430) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1408) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1189) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:426) ~[webdrivermanager-5.7.0.jar:?]
+	at utils.DriverFactory.initDriver(DriverFactory.java:33) ~[classes/:?]
+	at hooks.Hooks.initDriver(Hooks.java:28) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:78) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.2.1.jar:5.2.1]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:157) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1550) ~[webdrivermanager-5.7.0.jar:?]
+	... 59 more
+2026-03-15 19:39:51 [main] ERROR hooks.Hooks - FAILED: Book flight with inline test data
+2026-03-15 19:39:51 [main] ERROR hooks.Hooks - Driver null hai — browser launch nahi hua
+2026-03-15 19:39:51 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight with inline test data ===
+
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_146_WINDOWS to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2026-03-15 19:39:51 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1565) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1435) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1267) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1183) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1430) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1408) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1189) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:426) ~[webdrivermanager-5.7.0.jar:?]
+	at utils.DriverFactory.initDriver(DriverFactory.java:33) ~[classes/:?]
+	at hooks.Hooks.initDriver(Hooks.java:28) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:78) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.2.1.jar:5.2.1]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:157) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1550) ~[webdrivermanager-5.7.0.jar:?]
+	... 59 more
+2026-03-15 19:39:51 [main] ERROR hooks.Hooks - FAILED: Book flight using Excel test data
+2026-03-15 19:39:51 [main] ERROR hooks.Hooks - Driver null hai — browser launch nahi hua
+2026-03-15 19:39:51 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Excel test data ===
+
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_146_WINDOWS to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2026-03-15 19:39:51 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1565) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1435) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1267) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1183) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1430) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1408) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1189) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:426) ~[webdrivermanager-5.7.0.jar:?]
+	at utils.DriverFactory.initDriver(DriverFactory.java:33) ~[classes/:?]
+	at hooks.Hooks.initDriver(Hooks.java:28) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:78) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.2.1.jar:5.2.1]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:157) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1550) ~[webdrivermanager-5.7.0.jar:?]
+	... 59 more
+2026-03-15 19:39:51 [main] ERROR hooks.Hooks - FAILED: Book flight using CSV test data
+2026-03-15 19:39:51 [main] ERROR hooks.Hooks - Driver null hai — browser launch nahi hua
+2026-03-15 19:39:51 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using CSV test data ===
+
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_146_WINDOWS to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+2026-03-15 19:39:51 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2026-03-15 19:39:51 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1565) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1435) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1267) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1183) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1430) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1408) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1189) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:426) ~[webdrivermanager-5.7.0.jar:?]
+	at utils.DriverFactory.initDriver(DriverFactory.java:33) ~[classes/:?]
+	at hooks.Hooks.initDriver(Hooks.java:28) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:78) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.2.1.jar:5.2.1]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:157) ~[webdrivermanager-5.7.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1550) ~[webdrivermanager-5.7.0.jar:?]
+	... 59 more
+2026-03-15 19:39:51 [main] ERROR hooks.Hooks - FAILED: Book flight using Database test data
+2026-03-15 19:39:51 [main] ERROR hooks.Hooks - Driver null hai — browser launch nahi hua
+2026-03-15 19:39:51 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Database test data ===
+
+2026-03-15 19:54:14 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:54:14 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:54:14 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:54:15 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:54:15 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:54:16 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:54:16 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:54:17 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:54:17 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 19:54:18 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:54:18 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:54:18 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:54:23 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:54:23 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:54:23 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:54:24 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:54:24 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:54:24 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:54:25 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:54:26 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:54:26 [main] INFO  pages.PurchasePage - enterDetails() called for: Harshvardhan
+2026-03-15 19:54:27 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:54:27 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:54:27 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:54:31 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:54:31 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:54:31 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:54:32 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:54:32 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:54:33 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:54:33 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:54:33 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:54:34 [main] INFO  pages.PurchasePage - enterDetails() called for: Sonali 
+2026-03-15 19:54:35 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:54:35 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:54:35 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:54:38 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:54:38 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:54:39 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:54:39 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:54:39 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:54:40 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:54:40 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:54:41 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:54:42 [main] INFO  pages.PurchasePage - enterDetails() called for: Sudha 
+2026-03-15 19:54:42 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:54:42 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:54:42 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:54:46 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:54:46 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:54:47 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:54:47 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:54:47 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:54:48 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:54:48 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:54:49 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:54:49 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 19:54:50 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:54:50 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:54:50 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:54:54 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 19:54:54 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight with inline test data
+2026-03-15 19:54:54 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:54:58 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:54:58 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:54:59 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:54:59 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:55:00 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:55:00 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:55:00 [main] INFO  steps.FlightBookingSteps - Cities selected: Boston -> London
+2026-03-15 19:55:01 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:55:01 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:55:01 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:55:01 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:55:02 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:55:02 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:55:02 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:55:02 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:55:02 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:55:03 [main] INFO  pages.PurchasePage - enterDetails() called for: Rahul Sharma
+2026-03-15 19:55:03 [main] INFO  steps.FlightBookingSteps - [FEATURE FILE] Details filled for: Rahul Sharma
+2026-03-15 19:55:04 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:55:04 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:55:04 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:55:04 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:55:04 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:55:04 [main] INFO  steps.FlightBookingSteps - Success screenshot captured for: Rahul Sharma
+2026-03-15 19:55:04 [main] INFO  hooks.Hooks - PASSED: Book flight with inline test data
+2026-03-15 19:55:04 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:55:04 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight with inline test data ===
+
+2026-03-15 19:55:06 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 19:55:06 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight using Excel test data
+2026-03-15 19:55:06 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:55:06 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:55:06 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:55:08 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:55:08 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:55:09 [main] INFO  steps.FlightBookingSteps - [EXCEL] Loaded — Name: Bharti | City: Delhi
+2026-03-15 19:55:09 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:55:09 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:55:09 [main] INFO  steps.FlightBookingSteps - Cities selected: Boston -> London
+2026-03-15 19:55:10 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:55:10 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:55:10 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:55:10 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:55:11 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:55:11 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:55:11 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:55:11 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:55:11 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:55:12 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 19:55:12 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Bharti
+2026-03-15 19:55:12 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:55:13 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:55:13 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:55:13 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:55:13 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:55:13 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 19:55:13 [main] INFO  hooks.Hooks - PASSED: Book flight using Excel test data
+2026-03-15 19:55:13 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:55:13 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Excel test data ===
+
+2026-03-15 19:55:15 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 19:55:15 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight using CSV test data
+2026-03-15 19:55:15 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:55:16 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:55:16 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:55:18 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:55:18 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:55:18 [main] INFO  steps.FlightBookingSteps - [CSV] Loaded — Name: Sonali  | City: Delhi
+2026-03-15 19:55:19 [main] INFO  pages.HomePage - Departure selected: Paris
+2026-03-15 19:55:19 [main] INFO  pages.HomePage - Destination selected: Buenos Aires
+2026-03-15 19:55:19 [main] INFO  steps.FlightBookingSteps - Cities selected: Paris -> Buenos Aires
+2026-03-15 19:55:20 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:55:20 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:55:20 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:55:20 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:55:20 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:55:20 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:55:20 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:55:21 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:55:21 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:55:22 [main] INFO  pages.PurchasePage - enterDetails() called for: Sonali 
+2026-03-15 19:55:22 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Sonali 
+2026-03-15 19:55:23 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:55:23 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:55:23 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:55:23 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:55:23 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:55:23 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 19:55:23 [main] INFO  hooks.Hooks - PASSED: Book flight using CSV test data
+2026-03-15 19:55:23 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:55:23 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using CSV test data ===
+
+2026-03-15 19:55:24 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 19:55:24 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight using Database test data
+2026-03-15 19:55:24 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:55:26 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:55:26 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:55:27 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:55:27 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:55:28 [main] INFO  steps.FlightBookingSteps - [DB] Loaded — Name: Bharti | City: Delhi
+2026-03-15 19:55:28 [main] INFO  pages.HomePage - Departure selected: Paris
+2026-03-15 19:55:28 [main] INFO  pages.HomePage - Destination selected: Buenos Aires
+2026-03-15 19:55:28 [main] INFO  steps.FlightBookingSteps - Cities selected: Paris -> Buenos Aires
+2026-03-15 19:55:29 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:55:29 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:55:29 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:55:29 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:55:30 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:55:30 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:55:30 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:55:30 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:55:30 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:55:31 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 19:55:31 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Bharti
+2026-03-15 19:55:31 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:55:32 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:55:32 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:55:32 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:55:32 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:55:32 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 19:55:32 [main] INFO  hooks.Hooks - PASSED: Book flight using Database test data
+2026-03-15 19:55:32 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:55:32 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Database test data ===
+
+2026-03-15 19:55:35 [main] INFO  utils.DriverFactory - Edge browser launched — manual driver
+2026-03-15 19:55:35 [main] INFO  hooks.Hooks - Browser: edge | Scenario: Book flight with inline test data
+2026-03-15 19:55:35 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:55:36 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:55:36 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:55:38 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:55:38 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:55:38 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:55:39 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:55:39 [main] INFO  steps.FlightBookingSteps - Cities selected: Boston -> London
+2026-03-15 19:55:39 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:55:39 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:55:39 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:55:39 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:55:40 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:55:40 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:55:40 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:55:40 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:55:41 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:55:41 [main] INFO  pages.PurchasePage - enterDetails() called for: Rahul Sharma
+2026-03-15 19:55:41 [main] INFO  steps.FlightBookingSteps - [FEATURE FILE] Details filled for: Rahul Sharma
+2026-03-15 19:55:42 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:55:42 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:55:42 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:55:42 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:55:42 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:55:43 [main] INFO  steps.FlightBookingSteps - Success screenshot captured for: Rahul Sharma
+2026-03-15 19:55:43 [main] INFO  hooks.Hooks - PASSED: Book flight with inline test data
+2026-03-15 19:55:43 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:55:43 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight with inline test data ===
+
+2026-03-15 19:55:44 [main] INFO  utils.DriverFactory - Edge browser launched — manual driver
+2026-03-15 19:55:44 [main] INFO  hooks.Hooks - Browser: edge | Scenario: Book flight using Excel test data
+2026-03-15 19:55:44 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:55:45 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:55:45 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:55:47 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:55:47 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:55:47 [main] INFO  steps.FlightBookingSteps - [EXCEL] Loaded — Name: Bharti | City: Delhi
+2026-03-15 19:55:47 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 19:55:47 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 19:55:47 [main] INFO  steps.FlightBookingSteps - Cities selected: Boston -> London
+2026-03-15 19:55:48 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:55:48 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:55:48 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:55:48 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:55:49 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:55:49 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:55:49 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:55:49 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:55:50 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:55:50 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 19:55:50 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Bharti
+2026-03-15 19:55:51 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:55:51 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:55:51 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:55:51 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:55:51 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:55:51 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 19:55:51 [main] INFO  hooks.Hooks - PASSED: Book flight using Excel test data
+2026-03-15 19:55:52 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:55:52 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Excel test data ===
+
+2026-03-15 19:55:53 [main] INFO  utils.DriverFactory - Edge browser launched — manual driver
+2026-03-15 19:55:53 [main] INFO  hooks.Hooks - Browser: edge | Scenario: Book flight using CSV test data
+2026-03-15 19:55:53 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:55:54 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:55:54 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:55:56 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:55:56 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:55:56 [main] INFO  steps.FlightBookingSteps - [CSV] Loaded — Name: Sonali  | City: Delhi
+2026-03-15 19:55:56 [main] INFO  pages.HomePage - Departure selected: Paris
+2026-03-15 19:55:56 [main] INFO  pages.HomePage - Destination selected: Buenos Aires
+2026-03-15 19:55:56 [main] INFO  steps.FlightBookingSteps - Cities selected: Paris -> Buenos Aires
+2026-03-15 19:55:57 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:55:57 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:55:57 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:55:57 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:55:58 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:55:58 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:55:58 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:55:58 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:55:59 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:56:00 [main] INFO  pages.PurchasePage - enterDetails() called for: Sonali 
+2026-03-15 19:56:00 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Sonali 
+2026-03-15 19:56:01 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:56:01 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:56:01 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:56:01 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:56:01 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:56:01 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 19:56:01 [main] INFO  hooks.Hooks - PASSED: Book flight using CSV test data
+2026-03-15 19:56:01 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:56:01 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using CSV test data ===
+
+2026-03-15 19:56:03 [main] INFO  utils.DriverFactory - Edge browser launched — manual driver
+2026-03-15 19:56:03 [main] INFO  hooks.Hooks - Browser: edge | Scenario: Book flight using Database test data
+2026-03-15 19:56:03 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 19:56:04 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 19:56:04 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 19:56:05 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 19:56:05 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 19:56:05 [main] INFO  steps.FlightBookingSteps - [DB] Loaded — Name: Bharti | City: Delhi
+2026-03-15 19:56:05 [main] INFO  pages.HomePage - Departure selected: Paris
+2026-03-15 19:56:06 [main] INFO  pages.HomePage - Destination selected: Buenos Aires
+2026-03-15 19:56:06 [main] INFO  steps.FlightBookingSteps - Cities selected: Paris -> Buenos Aires
+2026-03-15 19:56:06 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 19:56:06 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 19:56:06 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 19:56:06 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 19:56:07 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 19:56:07 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 19:56:07 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 19:56:07 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 19:56:08 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 19:56:08 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 19:56:08 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Bharti
+2026-03-15 19:56:09 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 19:56:09 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 19:56:09 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 19:56:09 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 19:56:09 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 19:56:09 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 19:56:09 [main] INFO  hooks.Hooks - PASSED: Book flight using Database test data
+2026-03-15 19:56:10 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 19:56:10 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Database test data ===
+
+2026-03-15 22:14:01 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:14:01 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:14:01 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:14:01 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:14:01 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:15:40 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 22:15:41 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:15:42 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 22:15:44 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 22:16:01 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:16:02 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 22:16:04 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 22:16:15 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:16:15 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 22:16:17 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 22:16:34 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:16:35 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 22:16:37 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 22:16:49 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:16:50 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 22:24:57 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:24:57 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 22:24:57 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 22:25:16 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 22:25:16 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 22:25:17 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 22:25:25 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 22:25:26 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 22:25:27 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 22:25:29 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 22:25:29 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 22:25:29 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 22:25:49 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:25:49 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 22:25:50 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 22:25:50 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 22:25:50 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 22:25:58 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:26:03 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 22:26:03 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 22:26:07 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 22:26:07 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 22:26:14 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 22:26:15 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 22:26:16 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 22:26:17 [main] INFO  pages.PurchasePage - enterDetails() called for: Sonali 
+2026-03-15 22:26:18 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 22:26:38 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:26:39 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 22:26:39 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 22:26:40 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 22:26:40 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 22:26:43 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:26:47 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 22:26:47 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 22:26:48 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 22:26:48 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 22:26:48 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 22:26:51 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 22:26:52 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 22:26:54 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 22:26:54 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 22:26:54 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 22:26:55 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 22:30:59 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:30:59 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 22:31:00 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 22:31:00 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 22:31:01 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 22:31:02 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 22:31:02 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 22:31:03 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 22:31:04 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 22:31:10 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 22:31:10 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 22:31:10 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 22:31:14 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:31:16 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 22:31:16 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 22:31:17 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 22:31:17 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 22:31:17 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 22:31:18 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 22:31:19 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 22:31:20 [main] INFO  pages.PurchasePage - enterDetails() called for: Harshvardhan
+2026-03-15 22:31:21 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 22:31:21 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 22:31:21 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 22:31:26 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:31:27 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 22:31:27 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 22:31:28 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 22:31:28 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 22:31:29 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 22:31:29 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 22:31:30 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 22:31:31 [main] INFO  pages.PurchasePage - enterDetails() called for: Sonali 
+2026-03-15 22:31:32 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 22:31:32 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 22:31:32 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 22:31:39 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:31:40 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 22:31:40 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 22:31:40 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 22:31:41 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 22:31:42 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 22:31:42 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 22:31:43 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 22:31:45 [main] INFO  pages.PurchasePage - enterDetails() called for: Sudha 
+2026-03-15 22:31:45 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 22:31:46 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 22:31:46 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 22:31:57 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 22:31:57 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 22:31:58 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 22:31:59 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 22:31:59 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 22:32:00 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 22:32:01 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 22:32:03 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 22:32:05 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 22:32:06 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 22:32:06 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 22:32:06 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 23:10:37 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 23:10:41 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 23:10:41 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 23:10:43 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 23:10:43 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 23:10:44 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 23:10:44 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 23:10:46 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 23:10:47 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 23:10:48 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 23:10:49 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 23:10:49 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 23:10:58 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 23:10:58 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 23:10:59 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 23:11:00 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 23:11:00 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 23:11:01 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 23:11:01 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 23:11:03 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 23:11:04 [main] INFO  pages.PurchasePage - enterDetails() called for: Harshvardhan
+2026-03-15 23:11:06 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 23:11:06 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 23:11:06 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 23:11:11 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 23:11:15 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 23:11:16 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 23:11:19 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 23:11:19 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 23:11:20 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 23:11:20 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 23:11:21 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 23:11:23 [main] INFO  pages.PurchasePage - enterDetails() called for: Sonali 
+2026-03-15 23:11:23 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 23:11:24 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 23:11:24 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 23:11:29 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 23:11:29 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 23:11:29 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 23:11:30 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 23:11:30 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 23:11:31 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 23:11:31 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 23:11:32 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 23:11:33 [main] INFO  pages.PurchasePage - enterDetails() called for: Sudha 
+2026-03-15 23:11:34 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 23:11:34 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 23:11:35 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 23:11:39 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 23:11:40 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 23:11:40 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 23:11:41 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 23:11:41 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 23:11:42 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 23:11:42 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 23:11:43 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 23:11:44 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 23:11:45 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 23:11:45 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 23:11:45 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 23:11:52 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 23:11:52 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight with inline test data
+2026-03-15 23:11:52 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 23:11:59 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 23:11:59 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 23:12:01 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 23:12:01 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 23:12:01 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 23:12:02 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 23:12:02 [main] INFO  steps.FlightBookingSteps - Cities selected: Boston -> London
+2026-03-15 23:12:03 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 23:12:03 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 23:12:03 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 23:12:03 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 23:12:04 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 23:12:04 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 23:12:04 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 23:12:04 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 23:12:06 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 23:12:07 [main] INFO  pages.PurchasePage - enterDetails() called for: Rahul Sharma
+2026-03-15 23:12:07 [main] INFO  steps.FlightBookingSteps - [FEATURE FILE] Details filled for: Rahul Sharma
+2026-03-15 23:12:08 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 23:12:08 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 23:12:08 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 23:12:08 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 23:12:08 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 23:12:08 [main] INFO  steps.FlightBookingSteps - Success screenshot captured for: Rahul Sharma
+2026-03-15 23:12:08 [main] INFO  hooks.Hooks - PASSED: Book flight with inline test data
+2026-03-15 23:12:09 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 23:12:09 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight with inline test data ===
+
+2026-03-15 23:12:11 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 23:12:11 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight using Excel test data
+2026-03-15 23:12:11 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 23:12:12 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 23:12:12 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 23:12:14 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 23:12:14 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 23:12:14 [main] INFO  steps.FlightBookingSteps - [EXCEL] Loaded — Name: Bharti | City: Delhi
+2026-03-15 23:12:14 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 23:12:15 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 23:12:15 [main] INFO  steps.FlightBookingSteps - Cities selected: Boston -> London
+2026-03-15 23:12:16 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 23:12:16 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 23:12:16 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 23:12:16 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 23:12:17 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 23:12:17 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 23:12:17 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 23:12:17 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 23:12:18 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 23:12:19 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 23:12:19 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Bharti
+2026-03-15 23:12:20 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 23:12:20 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 23:12:20 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 23:12:20 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 23:12:20 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 23:12:20 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 23:12:20 [main] INFO  hooks.Hooks - PASSED: Book flight using Excel test data
+2026-03-15 23:12:21 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 23:12:21 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Excel test data ===
+
+2026-03-15 23:12:24 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 23:12:24 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight using CSV test data
+2026-03-15 23:12:24 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 23:12:26 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 23:12:26 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 23:12:33 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 23:12:33 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 23:12:33 [main] INFO  steps.FlightBookingSteps - [CSV] Loaded — Name: Sonali  | City: Delhi
+2026-03-15 23:12:34 [main] INFO  pages.HomePage - Departure selected: Paris
+2026-03-15 23:12:34 [main] INFO  pages.HomePage - Destination selected: Buenos Aires
+2026-03-15 23:12:34 [main] INFO  steps.FlightBookingSteps - Cities selected: Paris -> Buenos Aires
+2026-03-15 23:12:35 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 23:12:35 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 23:12:35 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 23:12:36 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 23:12:37 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 23:12:37 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 23:12:37 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 23:12:37 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 23:12:39 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 23:12:41 [main] INFO  pages.PurchasePage - enterDetails() called for: Sonali 
+2026-03-15 23:12:41 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Sonali 
+2026-03-15 23:12:43 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 23:12:43 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 23:12:43 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 23:12:43 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 23:12:43 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 23:12:44 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 23:12:44 [main] INFO  hooks.Hooks - PASSED: Book flight using CSV test data
+2026-03-15 23:12:49 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 23:12:49 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using CSV test data ===
+
+2026-03-15 23:12:59 [main] INFO  utils.DriverFactory - Chrome browser launched
+2026-03-15 23:12:59 [main] INFO  hooks.Hooks - Browser: chrome | Scenario: Book flight using Database test data
+2026-03-15 23:12:59 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 23:13:00 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 23:13:00 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 23:13:03 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 23:13:03 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 23:13:06 [main] INFO  steps.FlightBookingSteps - [DB] Loaded — Name: Bharti | City: Delhi
+2026-03-15 23:13:08 [main] INFO  pages.HomePage - Departure selected: Paris
+2026-03-15 23:13:09 [main] INFO  pages.HomePage - Destination selected: Buenos Aires
+2026-03-15 23:13:09 [main] INFO  steps.FlightBookingSteps - Cities selected: Paris -> Buenos Aires
+2026-03-15 23:13:10 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 23:13:11 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 23:13:11 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 23:13:11 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 23:13:12 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 23:13:12 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 23:13:12 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 23:13:13 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 23:13:15 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 23:13:17 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 23:13:17 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Bharti
+2026-03-15 23:13:20 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 23:13:20 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 23:13:20 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 23:13:20 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 23:13:20 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 23:13:21 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 23:13:21 [main] INFO  hooks.Hooks - PASSED: Book flight using Database test data
+2026-03-15 23:13:23 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 23:13:23 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Database test data ===
+
+2026-03-15 23:13:32 [main] INFO  utils.DriverFactory - Edge browser launched — manual driver
+2026-03-15 23:13:32 [main] INFO  hooks.Hooks - Browser: edge | Scenario: Book flight with inline test data
+2026-03-15 23:13:32 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 23:13:33 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 23:13:33 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 23:13:34 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 23:13:34 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 23:13:37 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 23:13:37 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 23:13:37 [main] INFO  steps.FlightBookingSteps - Cities selected: Boston -> London
+2026-03-15 23:13:38 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 23:13:38 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 23:13:38 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 23:13:38 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 23:13:39 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 23:13:40 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 23:13:40 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 23:13:40 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 23:13:42 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 23:13:44 [main] INFO  pages.PurchasePage - enterDetails() called for: Rahul Sharma
+2026-03-15 23:13:44 [main] INFO  steps.FlightBookingSteps - [FEATURE FILE] Details filled for: Rahul Sharma
+2026-03-15 23:13:45 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 23:13:45 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 23:13:45 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 23:13:46 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 23:13:46 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 23:13:46 [main] INFO  steps.FlightBookingSteps - Success screenshot captured for: Rahul Sharma
+2026-03-15 23:13:46 [main] INFO  hooks.Hooks - PASSED: Book flight with inline test data
+2026-03-15 23:13:48 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 23:13:48 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight with inline test data ===
+
+2026-03-15 23:13:52 [main] INFO  utils.DriverFactory - Edge browser launched — manual driver
+2026-03-15 23:13:53 [main] INFO  hooks.Hooks - Browser: edge | Scenario: Book flight using Excel test data
+2026-03-15 23:13:53 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 23:13:54 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 23:13:54 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 23:13:55 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 23:13:55 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 23:13:56 [main] INFO  steps.FlightBookingSteps - [EXCEL] Loaded — Name: Bharti | City: Delhi
+2026-03-15 23:13:59 [main] INFO  pages.HomePage - Departure selected: Boston
+2026-03-15 23:14:00 [main] INFO  pages.HomePage - Destination selected: London
+2026-03-15 23:14:00 [main] INFO  steps.FlightBookingSteps - Cities selected: Boston -> London
+2026-03-15 23:14:02 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 23:14:02 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 23:14:02 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 23:14:02 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 23:14:04 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 23:14:04 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 23:14:04 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 23:14:05 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 23:14:07 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 23:14:08 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 23:14:08 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Bharti
+2026-03-15 23:14:10 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 23:14:10 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 23:14:10 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 23:14:10 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 23:14:10 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 23:14:11 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 23:14:11 [main] INFO  hooks.Hooks - PASSED: Book flight using Excel test data
+2026-03-15 23:14:14 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 23:14:14 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Excel test data ===
+
+2026-03-15 23:14:17 [main] INFO  utils.DriverFactory - Edge browser launched — manual driver
+2026-03-15 23:14:17 [main] INFO  hooks.Hooks - Browser: edge | Scenario: Book flight using CSV test data
+2026-03-15 23:14:17 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 23:14:18 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 23:14:18 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 23:14:19 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 23:14:19 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 23:14:19 [main] INFO  steps.FlightBookingSteps - [CSV] Loaded — Name: Sonali  | City: Delhi
+2026-03-15 23:14:20 [main] INFO  pages.HomePage - Departure selected: Paris
+2026-03-15 23:14:21 [main] INFO  pages.HomePage - Destination selected: Buenos Aires
+2026-03-15 23:14:21 [main] INFO  steps.FlightBookingSteps - Cities selected: Paris -> Buenos Aires
+2026-03-15 23:14:23 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 23:14:23 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 23:14:23 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 23:14:23 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 23:14:24 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 23:14:24 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 23:14:24 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 23:14:25 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 23:14:27 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 23:14:29 [main] INFO  pages.PurchasePage - enterDetails() called for: Sonali 
+2026-03-15 23:14:29 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Sonali 
+2026-03-15 23:14:31 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 23:14:31 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 23:14:31 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 23:14:31 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 23:14:31 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 23:14:31 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 23:14:31 [main] INFO  hooks.Hooks - PASSED: Book flight using CSV test data
+2026-03-15 23:14:33 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 23:14:33 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using CSV test data ===
+
+2026-03-15 23:14:35 [main] INFO  utils.DriverFactory - Edge browser launched — manual driver
+2026-03-15 23:14:35 [main] INFO  hooks.Hooks - Browser: edge | Scenario: Book flight using Database test data
+2026-03-15 23:14:35 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION] API health check starting...
+2026-03-15 23:14:37 [main] INFO  utils.ApiUtils - [API Check] https://blazedemo.com returned HTTP 200
+2026-03-15 23:14:37 [main] INFO  steps.FlightBookingSteps - [PRE-CONDITION PASSED] Site is up.
+2026-03-15 23:14:38 [main] INFO  pages.HomePage - HomePage initialized
+2026-03-15 23:14:38 [main] INFO  steps.FlightBookingSteps - Navigated to BlazeDemo homepage
+2026-03-15 23:14:38 [main] INFO  steps.FlightBookingSteps - [DB] Loaded — Name: Bharti | City: Delhi
+2026-03-15 23:14:39 [main] INFO  pages.HomePage - Departure selected: Paris
+2026-03-15 23:14:39 [main] INFO  pages.HomePage - Destination selected: Buenos Aires
+2026-03-15 23:14:39 [main] INFO  steps.FlightBookingSteps - Cities selected: Paris -> Buenos Aires
+2026-03-15 23:14:40 [main] INFO  pages.HomePage - Find Flights button clicked
+2026-03-15 23:14:41 [main] INFO  pages.FlightsPage - FlightsPage initialized
+2026-03-15 23:14:41 [main] INFO  steps.FlightBookingSteps - Find Flights clicked
+2026-03-15 23:14:41 [main] INFO  steps.FlightBookingSteps - Flight results page verified
+2026-03-15 23:14:42 [main] INFO  pages.FlightsPage - First flight selected
+2026-03-15 23:14:42 [main] INFO  pages.PurchasePage - PurchasePage initialized
+2026-03-15 23:14:42 [main] INFO  steps.FlightBookingSteps - First flight selected
+2026-03-15 23:14:42 [main] INFO  steps.FlightBookingSteps - Purchase page verified. Cost: Your flight from TLV to SFO has been reserved.
+2026-03-15 23:14:44 [main] INFO  pages.PurchasePage - cardDetails() called
+2026-03-15 23:14:46 [main] INFO  pages.PurchasePage - enterDetails() called for: Bharti
+2026-03-15 23:14:46 [main] INFO  steps.FlightBookingSteps - [LOADED DATA] Details filled for: Bharti
+2026-03-15 23:14:51 [main] INFO  pages.PurchasePage - Purchase Flight button clicked
+2026-03-15 23:14:51 [main] INFO  pages.ConfirmationPage - ConfirmationPage initialized
+2026-03-15 23:14:51 [main] INFO  steps.FlightBookingSteps - Purchase Flight button clicked
+2026-03-15 23:14:51 [main] INFO  pages.ConfirmationPage - Confirmation: Thank you for your purchase today!
+2026-03-15 23:14:51 [main] INFO  steps.FlightBookingSteps - Confirmation text: Thank you for your purchase today!
+2026-03-15 23:14:51 [main] INFO  steps.FlightBookingSteps - Success screenshot captured
+2026-03-15 23:14:51 [main] INFO  hooks.Hooks - PASSED: Book flight using Database test data
+2026-03-15 23:14:52 [main] INFO  utils.DriverFactory - Browser closed
+2026-03-15 23:14:52 [main] INFO  hooks.Hooks - === Scenario Ended: Book flight using Database test data ===
+

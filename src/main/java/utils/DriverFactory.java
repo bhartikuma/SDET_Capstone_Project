@@ -4,7 +4,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.edge.EdgeOptions;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -29,11 +28,13 @@ public class DriverFactory {
         switch (browser.toLowerCase().trim()) {
 
             case "edge":
-                // WebDriverManager NAHI — Edge already Windows mein hota hai
-                // msedgedriver automatically PATH mein hota hai Windows pe
-                EdgeOptions edgeOptions = new EdgeOptions();
-                d = new EdgeDriver(edgeOptions);
-                log.info("Edge browser launched");
+                System.setProperty(
+                    "webdriver.edge.driver",
+                    System.getProperty("user.dir")
+                        + "/drivers/edgedriver_win64/msedgedriver.exe"
+                );
+                d = new EdgeDriver();
+                log.info("Edge browser launched — manual driver");
                 break;
 
             case "chrome":

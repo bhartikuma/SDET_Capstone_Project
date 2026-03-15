@@ -4,6 +4,12 @@
     <listeners>
         <listener class-name="reports.TestListener"/>
     </listeners>
+    <!-- testng-->
+    <test name="TestNG Direct Tests">
+    <classes>
+        <class name="tests.FlightBookingTest"/>
+    </classes>
+    </test>
 
     <!-- Chrome pe run — 4 scenarios -->
     <test name="Chrome Tests">

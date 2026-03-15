@@ -10,6 +10,7 @@ public class DataProviderUtil {
         Object[][] excel = ExcelReader.getExcelData();
         Object[][] csv = CSVReaderUtil.getCSVData();
         Object[][] db = DatabaseUtil.getDBData();
+        
 
         List<Object[]> allData = new ArrayList<>();
 
